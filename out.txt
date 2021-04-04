@@ -1,0 +1,45 @@
+Yo
+50
+<span class="aok-inline-block zg-item">
+ <a class="a-link-normal" href="/Psychology-Money-Morgan-Housel/dp/9390166268?_encoding=UTF8&amp;psc=1">
+  <span class="zg-text-center-align">
+   <div class="a-section a-spacing-small">
+    <img alt="The Psychology of Money" height="200" src="https://images-eu.ssl-images-amazon.com/images/I/81cpDaCJJCL._AC_UL200_SR200,200_.jpg" width="200"/>
+   </div>
+  </span>
+  <div aria-hidden="true" class="p13n-sc-truncate p13n-sc-line-clamp-1" data-rows="1">
+   The Psychology of Money
+  </div>
+ </a>
+ <div class="a-row a-size-small">
+  <a class="a-size-small a-link-child" href="/Morgan-Housel/e/B084ZNV1LR">
+   Morgan Housel
+  </a>
+ </div>
+ <div class="a-icon-row a-spacing-none">
+  <a class="a-link-normal" href="/product-reviews/9390166268" title="4.5 out of 5 stars">
+   <i class="a-icon a-icon-star a-star-4-5 aok-align-top">
+    <span class="a-icon-alt">
+     4.5 out of 5 stars
+    </span>
+   </i>
+  </a>
+  <a class="a-size-small a-link-normal" href="/product-reviews/9390166268">
+   7,010
+  </a>
+ </div>
+ <div class="a-row a-size-small">
+  <span class="a-size-small a-color-secondary">
+   Paperback
+  </span>
+ </div>
+ <div class="a-row">
+  <a class="a-link-normal a-text-normal" href="/Psychology-Money-Morgan-Housel/dp/9390166268?_encoding=UTF8&amp;psc=1">
+   <span class="a-size-base a-color-price">
+    <span class="p13n-sc-price">
+     ₹ 262.00
+    </span>
+   </span>
+  </a>
+ </div>
+</span>
